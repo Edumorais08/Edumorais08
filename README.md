@@ -1,7 +1,7 @@
 ## Oi! Sou o Eduardo Morais 👋
 
 - 🔭 Estou estudando Engenharia de Software
-- 🌱 Estou aprendendo Java e Javascript
+- 🌱 Estou aprendendo react
 
 <div>
   <a href="https://github.com/Edumorais08">
